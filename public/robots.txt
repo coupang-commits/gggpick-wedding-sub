@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wedding.gggpick.com/sitemap.xml
